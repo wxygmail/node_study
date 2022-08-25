@@ -1,0 +1,11 @@
+.layout-footer {
+    width: 100%;
+    text-align: center;
+    height: 80px;
+    line-height: 80px;
+    background: gainsboro;
+}
+.container{
+    height: calc(100vh - 140px);
+    overflow: auto;
+}
